@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorezahavy&label=Profile%20views&color=0e75b6&style=flat" alt="dorezahavy" /> </p>
 
-- 🌱 Currently learning **Django, Algorithms**
+- 🌱 Currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **dorezahavy@gmail.com**
 
