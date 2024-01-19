@@ -17,6 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img title="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+<img title="Quasar" src="https://avatars.githubusercontent.com/u/23064371?s=200&v=4" alt="quasar" width="40" height="40"/>
 <img title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 <img title="Next.js" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
 <img title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
