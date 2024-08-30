@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorezahavy&label=Profile%20views&color=0e75b6&style=flat" alt="dorezahavy" /> </p>
 
-- 🌱 Currently learning **Data Structures and Algorithms**
+- 🌱 Currently learning **Godot**
 
 - 📫 How to reach me **dorezahavy@gmail.com**
 
@@ -40,6 +40,8 @@
 <img title="django" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img title="Elasticsearch" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="Elasticsearch" width="40" height="40"/>
+<img title="Godot" src="https://godotengine.org/assets/press/icon_color.png" alt="Godot" width="40" height="40"/>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorezahavy&" alt="dorezahavy" /></p>
