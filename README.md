@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dore</h1>
 <h3 align="center">Developer / Coding Courses Lead</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorezahavy&label=Profile%20views&color=0e75b6&style=flat" alt="dorezahavy" /> </p>
 <img title="Vue.js" src="https://res.cloudinary.com/dbdrnjhpm/image/upload/v1744464215/zuzbgci6hmgkvnlzwx5z.png" alt="banner" width="100%" />
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorezahavy&label=Profile%20views&color=0e75b6&style=flat" alt="dorezahavy" /> </p>
 
 <p align="left">🌱 Currently learning <b>Godot</b> game engine </p>
 <p align="left">📫 How to reach me <b>dorezahavy@gmail.com</b></p>
