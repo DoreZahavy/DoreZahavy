@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dore</h1>
-<h3 align="center">Coding instructor / Full Stack developer</h3>
+<h3 align="center">Developer / Coding Courses Lead</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorezahavy&label=Profile%20views&color=0e75b6&style=flat" alt="dorezahavy" /> </p>
+<img title="Vue.js" src="https://res.cloudinary.com/dbdrnjhpm/image/upload/v1744464215/zuzbgci6hmgkvnlzwx5z.png" alt="banner" width="100%" />
 
-- 🌱 Currently learning **Godot**
-
-- 📫 How to reach me **dorezahavy@gmail.com**
+<p align="left">🌱 Currently learning <b>Godot</b> game engine </p>
+<p align="left">📫 How to reach me <b>dorezahavy@gmail.com</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +40,7 @@
 </p>
  <p align="left">
 <img title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<img title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
 <img title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
