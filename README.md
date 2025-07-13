@@ -47,6 +47,9 @@
     <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     <img title="Elasticsearch" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="Elasticsearch" width="40" height="40"/>
     <img title="Kibana" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+    <img title="zod" src="https://zod.dev/logo/logo-glow.png" alt="zod" width="40" height="40"/>
+
+    
   </p>
 
 </details>
