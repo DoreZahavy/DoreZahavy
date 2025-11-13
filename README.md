@@ -76,10 +76,11 @@
 </p>
 <p align="left">📫 <b>dorezahavy@gmail.com</b></p>
 
-<div style="display:flex">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorezahavy&" alt="dorezahavy" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorezahavy&show_icons=true&locale=en&layout=compact" alt="dorezahavy" />
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorezahavy&hide_progress=true)
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dorezahavy&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
