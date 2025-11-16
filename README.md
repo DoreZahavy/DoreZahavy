@@ -77,10 +77,13 @@
 <p align="left">📫 <b>dorezahavy@gmail.com</b></p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorezahavy&hide_progress=true)
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dorezahavy&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorezahavy&hide_progress=true&theme=darcula)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dorezahavy&theme=darcula)](https://git.io/streak-stats)
+
+
+  
 
 
 
