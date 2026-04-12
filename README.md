@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dore</h1>
-<h3 align="center">Developer / Coding Courses Lead</h3>
 
-<img title="Vue.js" src="https://res.cloudinary.com/dbdrnjhpm/image/upload/v1744464215/zuzbgci6hmgkvnlzwx5z.png" alt="banner" width="100%" />
+<h3 align="center">
+Courses Lead • Software Developer • Creator of <a href="https://poetix.app">Poetix</a>
+</h3>
+
+<img src="https://res.cloudinary.com/dbdrnjhpm/image/upload/v1744464215/zuzbgci6hmgkvnlzwx5z.png" alt="banner" width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorezahavy&label=Profile%20views&color=0e75b6&style=flat" alt="dorezahavy" /> </p>
 
@@ -57,7 +60,7 @@
     <img title="bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
     <img title="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> 
     <img title="photoshop" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
-    <img title="Lightroom" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" width="40" height="40"/>
+    <!-- <img title="Lightroom" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" width="40" height="40"/> -->
     <img title="Unity" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Dark.svg" alt="Unity" width="40" height="40"/>
     <img title="Wordpress" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" alt="Wordpress" width="40" height="40"/>
     <img title="matlab" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" alt="matlab" width="40" height="40"/>
@@ -76,8 +79,9 @@
 </p>
 <p align="left">📫 <b>dorezahavy@gmail.com</b></p>
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorezahavy&hide_progress=true&theme=darcula)
+-->
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dorezahavy&theme=darcula)](https://git.io/streak-stats)
