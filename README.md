@@ -30,6 +30,7 @@ Courses Lead • Software Developer • Creator of <a href="https://poetix.app">
     <img title="Angular" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg" alt="angular" width="40" height="40"/>
     <img title="RxJS" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" width="40" height="40"/>
     <img title="Vue.js" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" alt="vuejs" width="40" height="40"/>
+    <img title="Pinia" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Pinia-Dark.svg" alt="Pinia" width="40" height="40"/>
     <img title="Quasar" src="https://avatars.githubusercontent.com/u/23064371?s=200&v=4" alt="quasar" width="40" height="40"/>
     <img title="HTML5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="html5" width="40" height="40"/>
     <img title="Javascript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
@@ -46,6 +47,7 @@ Courses Lead • Software Developer • Creator of <a href="https://poetix.app">
     <img title="MySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> 
     <img title="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
     <img title="mongoDB" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
+    <img title="Redis" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Redis-Dark.svg" alt="Redis" width="40" height="40"/>
     <img title="Node.js" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
     <img title="Express.js" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/>
     <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -56,32 +58,34 @@ Courses Lead • Software Developer • Creator of <a href="https://poetix.app">
   <p align="left">
     <img title="CSS3" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="css3" width="40" height="40"/>
     <img title="Sass" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sass.svg" alt="sass" width="40" height="40"/>
-    <img title="Chart.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/1200px-Chart.js_logo.svg.png" alt="chartjs" width="40" height="40"/>
     <img title="bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
     <img title="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> 
     <img title="photoshop" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
-    <!-- <img title="Lightroom" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" width="40" height="40"/> -->
     <img title="Unity" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Dark.svg" alt="Unity" width="40" height="40"/>
     <img title="Wordpress" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" alt="Wordpress" width="40" height="40"/>
     <img title="matlab" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" alt="matlab" width="40" height="40"/>
     <img title="Krita" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/250px-Calligrakrita-base.svg.png" alt="Krita" width="40" height="40"/>
+    <img title="Unity" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Unity-Dark.svg" alt="Unity" width="40" height="40"/>
     <img title="blender" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Blender-Dark.svg" alt="blender" width="40" height="40"/>
+    <img title="JQuery" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JQuery.svg" alt="JQuery" width="40" height="40"/>
+    <img title="Vercel" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/>
 
   </p>
+
+
 
 </details>
 
 ### 💻 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/dore-zahavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dore-zahavy" height="30" width="40" /></a>
-<!-- // <a href="https://www.leetcode.com/dorezahavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dorezahavy" height="30" width="40" /></a> -->
   <a href="https://www.goodreads.com/dore_zahavy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Goodreads_logo_-_SuperTinyIcons.svg" alt="dorezahavy" height="35" width="40" /></a>
 </p>
 <p align="left">📫 <b>dorezahavy@gmail.com</b></p>
 
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorezahavy&hide_progress=true&theme=darcula)
--->
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dorezahavy&theme=darcula)](https://git.io/streak-stats)
